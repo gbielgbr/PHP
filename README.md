@@ -1,7 +1,10 @@
 # Urna Eletrônica Fictícia em PHP
 
 Este repositório contém o código-fonte de uma urna eletrônica fictícia desenvolvida em PHP, HTML5 e CSS3. O projeto visa simular de maneira didática o funcionamento de uma urna eletrônica, abordando diversos aspectos da programação web com PHP.
-![Imagem PHP](php_image.jpg)
+
+
+![PHP Image](https://cdn.iconscout.com/icon/free/png-512/php-28-226043.png)
+
 
 ### Funcionalidades Implementadas:
 - **Sessions:** Utilizadas para manter o estado da sessão do usuário durante sua interação com a urna eletrônica.
